@@ -1,5 +1,6 @@
 Tutorial: How to Build a Mordern CI/CD Pipeline 
 ---
+[![BCH compliance](https://bettercodehub.com/edge/badge/stanleyhlng/cicd-buzz?branch=master)](https://bettercodehub.com/)
 
 ### Goal
 
