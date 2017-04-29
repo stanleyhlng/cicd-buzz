@@ -49,3 +49,4 @@ Tutorial: How to Build a Mordern CI/CD Pipeline
     - Python -> PHP / Java / C++ / NodeJS
     - Docker -> Vagrant + Ansible
 - [ ] Fit into python template
+- [ ] Update .gitignore from dotfile:python
