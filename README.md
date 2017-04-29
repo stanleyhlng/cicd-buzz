@@ -37,6 +37,8 @@ Tutorial: How to Build a Mordern CI/CD Pipeline
     - Use Docker to create a single self-contained, deployable unit of the web app
 - Step 8: Deploy to Docker Hub
     - Deploy your containers to a central Docker image registry, e.g. DockerHub makes it much easier to share your container
+- Step 9: Deploy to Heroku
+    - Deploy your app to cloud platform
 
 ### Todos
 - [ ] Simplify the pipeline

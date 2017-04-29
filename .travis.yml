@@ -5,7 +5,7 @@ dist: trusty
 language: python
 
 script:
-  - cd cicd-buzz && python -m pytest -v && cd ..
+  - python -m pytest -v
 
 after_success:
   - sh .travis/deploy_dockerhub.sh
