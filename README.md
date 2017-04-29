@@ -39,6 +39,8 @@ Tutorial: How to Build a Mordern CI/CD Pipeline
     - Deploy your containers to a central Docker image registry, e.g. DockerHub makes it much easier to share your container
 - Step 9: Deploy to Heroku
     - Deploy your app to cloud platform
+    - Creating app... done, ⬢ immense-dusk-15324
+    - https://immense-dusk-15324.herokuapp.com/ | https://git.heroku.com/immense-dusk-15324.git
 
 ### Todos
 - [ ] Simplify the pipeline
