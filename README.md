@@ -54,3 +54,6 @@ Tutorial: How to Build a Mordern CI/CD Pipeline
     - Docker -> Vagrant + Ansible
 - [ ] Fit into python template
 - [ ] Update .gitignore from dotfile:python
+
+### Resources
+* http://www.yamllint.com/
